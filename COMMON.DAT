@@ -76,12 +76,12 @@ HotbarCrossLock	0
 HotbarCrossUsePadGuide	1
 HotbarCrossActiveSet	0
 HotbarCrossActiveSetPvP	0
-HotbarCrossSetChangeCustomIsAuto	1
+HotbarCrossSetChangeCustomIsAuto	0
 HotbarCrossSetChangeCustom	1
 HotbarCrossSetChangeCustomSet1	1
 HotbarCrossSetChangeCustomSet2	0
 HotbarCrossSetChangeCustomSet3	0
-HotbarCrossSetChangeCustomSet4	1
+HotbarCrossSetChangeCustomSet4	0
 HotbarCrossSetChangeCustomSet5	0
 HotbarCrossSetChangeCustomSet6	0
 HotbarCrossSetChangeCustomSet7	0
@@ -89,7 +89,7 @@ HotbarCrossSetChangeCustomSet6	0
 HotbarCrossSetChangeCustomIsSword	1
 HotbarCrossSetChangeCustomIsSwordSet1	1
 HotbarCrossSetChangeCustomIsSwordSet2	0
-HotbarCrossSetChangeCustomIsSwordSet3	1
+HotbarCrossSetChangeCustomIsSwordSet3	0
 HotbarCrossSetChangeCustomIsSwordSet4	0
 HotbarCrossSetChangeCustomIsSwordSet5	0
 HotbarCrossSetChangeCustomIsSwordSet6	0
