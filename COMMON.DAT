@@ -26,6 +26,7 @@ CameraProductionOfAction	1
 FPSCameraInterpolationType	2
 FPSCameraVerticalInterpolation	0
 LegacyCameraType	1
+EventCameraAutoControl	1
 CameraLookBlinkType	0
 IdleEmoteTime	5
 IdleEmoteRandomType	0
@@ -275,6 +276,8 @@ IsLogAlliance	0
 LogAlliance	0
 IsLogFc	0
 LogFc	0
+IsLogPvpTeam	0
+LogPvpTeam	0
 IsLogLs1	0
 LogLs1	0
 IsLogLs2	0
@@ -308,7 +311,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	100
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	7
+ChatType	0
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -324,6 +327,8 @@ ColorLS6	13959039
 ColorLS7	13959039
 ColorLS8	13959039
 ColorFCompany	11328742
+ColorPvPGroup	4289518822
+ColorPvPGroupAnnounce	4289518822
 ColorBeginner	13959039
 ColorEmoteUser	12386288
 ColorEmote	12386288
@@ -396,5 +401,14 @@ FriendListFilterType	0
 FriendListSortType	0
 LetterListFilterType	0
 LetterListSortType	0
+ContentsReplayEnable	0
+MouseWheelOperationUp	1
+MouseWheelOperationDown	2
+MouseWheelOperationCtrlUp	0
+MouseWheelOperationCtrlDown	0
+MouseWheelOperationAltUp	0
+MouseWheelOperationAltDown	0
+MouseWheelOperationShiftUp	0
+MouseWheelOperationShiftDown	0
 PvPFrontlinesGCFree	1
  
