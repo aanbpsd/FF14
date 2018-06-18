@@ -122,9 +122,9 @@ HotbarCrossSetChangeCustomIsSwordSet6Pvp	0
 HotbarCrossAdvancedSettingPvp	0
 HotbarCrossAdvancedSettingLeftPvp	15
 HotbarCrossAdvancedSettingRightPvp	14
-HotbarWXHBEnable	0
-HotbarWXHBSetLeft	2
-HotbarWXHBSetRight	3
+HotbarWXHBEnable	1
+HotbarWXHBSetLeft	4
+HotbarWXHBSetRight	5
 HotbarWXHBEnablePvP	0
 HotbarWXHBSetLeftPvP	14
 HotbarWXHBSetRightPvP	15
