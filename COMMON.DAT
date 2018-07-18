@@ -75,7 +75,7 @@ HotbarCrossOperation	0
 HotbarCrossDisp	0
 HotbarCrossLock	0
 HotbarCrossUsePadGuide	1
-HotbarCrossActiveSet	1
+HotbarCrossActiveSet	0
 HotbarCrossActiveSetPvP	0
 HotbarCrossSetChangeCustomIsAuto	0
 HotbarCrossSetChangeCustom	1
