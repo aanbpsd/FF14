@@ -296,6 +296,8 @@ IsLogLs8	0
 LogLs8	0
 IsLogBeginner	0
 LogBeginner	0
+IsLogCwls	0
+LogCwls	0
 LogRecastActionErrDisp	1
 LogPermeationRate	100
 LogFontSizeForm	16
@@ -334,6 +336,7 @@ ColorEmoteUser	12386288
 ColorEmote	12386288
 ColorYell	16776960
 ColorBeginnerAnnounce	13959039
+ColorCWLS	4292149119
 ColorAttackSuccess	16744319
 ColorAttackFailure	13421772
 ColorAction	16777138
@@ -389,6 +392,7 @@ BuffDispType	0
 ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	0
 EnemyListCastbarEnable	1
+AchievementAppealLoginDisp	0
 ItemInventryWindowSizeType	1
 ItemInventryRetainerWindowSizeType	1
 EmoteTextType	1
