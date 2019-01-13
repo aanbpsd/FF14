@@ -1,5 +1,5 @@
 BattleEffectSelf	0
-BattleEffectParty	0
+BattleEffectParty	1
 BattleEffectOther	0
 
 <GamePad Settings>
@@ -8,7 +8,7 @@ PadMode	1
 <UI Settings>
 
 <Charcter Settings>
-WeaponAutoPutAway	1
+WeaponAutoPutAway	0
 WeaponAutoPutAwayTime	3
 LipMotionType	1
 
@@ -28,7 +28,7 @@ FPSCameraVerticalInterpolation	0
 LegacyCameraType	1
 EventCameraAutoControl	1
 CameraLookBlinkType	0
-IdleEmoteTime	5
+IdleEmoteTime	3
 IdleEmoteRandomType	0
 CutsceneSkipIsShip	0
 CutsceneSkipIsContents	1
