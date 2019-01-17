@@ -86,7 +86,7 @@ HotbarCrossSetChangeCustomSet4	0
 HotbarCrossSetChangeCustomSet5	0
 HotbarCrossSetChangeCustomSet6	0
 HotbarCrossSetChangeCustomSet7	0
-HotbarCrossSetChangeCustomSet6	0
+HotbarCrossSetChangeCustomSet8	0
 HotbarCrossSetChangeCustomIsSword	1
 HotbarCrossSetChangeCustomIsSwordSet1	1
 HotbarCrossSetChangeCustomIsSwordSet2	0
@@ -95,7 +95,7 @@ HotbarCrossSetChangeCustomIsSwordSet4	0
 HotbarCrossSetChangeCustomIsSwordSet5	0
 HotbarCrossSetChangeCustomIsSwordSet6	0
 HotbarCrossSetChangeCustomIsSwordSet7	0
-HotbarCrossSetChangeCustomIsSwordSet6	0
+HotbarCrossSetChangeCustomIsSwordSet8	0
 HotbarCrossAdvancedSetting	1
 HotbarCrossAdvancedSettingLeft	3
 HotbarCrossAdvancedSettingRight	2
@@ -107,9 +107,9 @@ HotbarCrossSetChangeCustomSet2Pvp	1
 HotbarCrossSetChangeCustomSet3Pvp	0
 HotbarCrossSetChangeCustomSet4Pvp	0
 HotbarCrossSetChangeCustomSet5Pvp	0
-HotbarCrossSetChangeCustomSet6Pvp	0
-HotbarCrossSetChangeCustomSet7Pvp	0
 HotbarCrossSetChangeCustomSet6Pvp	1
+HotbarCrossSetChangeCustomSet7Pvp	0
+HotbarCrossSetChangeCustomSet8Pvp	1
 HotbarCrossSetChangeCustomIsSwordPvp	0
 HotbarCrossSetChangeCustomIsSwordSet1Pvp	1
 HotbarCrossSetChangeCustomIsSwordSet2Pvp	1
@@ -118,7 +118,7 @@ HotbarCrossSetChangeCustomIsSwordSet4Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet5Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet6Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet7Pvp	0
-HotbarCrossSetChangeCustomIsSwordSet6Pvp	0
+HotbarCrossSetChangeCustomIsSwordSet8Pvp	0
 HotbarCrossAdvancedSettingPvp	0
 HotbarCrossAdvancedSettingLeftPvp	15
 HotbarCrossAdvancedSettingRightPvp	14
@@ -313,7 +313,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	100
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	2
+ChatType	1
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
