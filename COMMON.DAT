@@ -130,7 +130,7 @@ HotbarWXHBSetLeftPvP	14
 HotbarWXHBSetRightPvP	15
 HotbarWXHB8Button	1
 HotbarWXHB8ButtonPvP	0
-HotbarWXHBSetInputTime	20
+HotbarWXHBSetInputTime	15
 HotbarWXHBDisplay	0
 HotbarWXHBFreeLayout	1
 HotbarXHBActiveTransmissionAlpha	0
