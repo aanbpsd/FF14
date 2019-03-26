@@ -37,9 +37,9 @@ TurnSpeed	100
 FootEffect	0
 LegacySeal	1
 GBarrelDisp	1
-EgiMirageTypeGaruda	0
-EgiMirageTypeTitan	0
-EgiMirageTypeIfrit	0
+EgiMirageTypeGaruda	1
+EgiMirageTypeTitan	2
+EgiMirageTypeIfrit	3
 BahamutSize	2
 TimeMode	2
 Time12	0
