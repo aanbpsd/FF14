@@ -328,7 +328,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	100
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	1
+ChatType	7
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -415,7 +415,7 @@ BuffDispType	0
 ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	0
 EnemyListCastbarEnable	1
-AchievementAppealLoginDisp	0
+AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	1
 ItemInventryRetainerWindowSizeType	1
 EmoteTextType	1
