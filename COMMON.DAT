@@ -34,6 +34,13 @@ CutsceneSkipIsShip	0
 CutsceneSkipIsContents	1
 CutsceneSkipIsHousing	0
 PetTargetOffInCombat	1
+GroundTargetFPSPosX	50000
+GroundTargetFPSPosY	50000
+GroundTargetTPSPosX	50000
+GroundTargetTPSPosY	45000
+TargetDisableAnchor	0
+TargetCircleClickFilterEnableNearestCursor	0
+TargetEnableMouseOverSelect	0
 TurnSpeed	100
 FootEffect	0
 LegacySeal	1
@@ -135,6 +142,9 @@ HotbarWXHBSetInputTime	15
 HotbarWXHBDisplay	1
 HotbarWXHBFreeLayout	1
 HotbarXHBActiveTransmissionAlpha	0
+HotbarXHBAlphaDefault	0
+HotbarXHBAlphaActiveSet	0
+HotbarXHBAlphaInactiveSet	0
 HotbarWXHBInputOnce	0
 IdlingCameraSwitchType	1
 PlateType	1
@@ -328,7 +338,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	100
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	7
+ChatType	1
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -419,6 +429,8 @@ AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	1
 ItemInventryRetainerWindowSizeType	1
 EmoteTextType	1
+IsEmoteSe	0
+EmoteSeType	0
 PartyFinderNewArrivalDisp	1
 GPoseTargetFilterNPCLookAt	1
 GPoseMotionFilterAction	1
@@ -428,7 +440,7 @@ FriendListFilterType	0
 FriendListSortType	0
 LetterListFilterType	0
 LetterListSortType	0
-ContentsReplayEnable	0
+ContentsReplayEnable	1
 MouseWheelOperationUp	1
 MouseWheelOperationDown	2
 MouseWheelOperationCtrlUp	0
